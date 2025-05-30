@@ -1,0 +1,20 @@
+body {
+    background-color: #f8d4ff;
+}
+
+img {
+    width: 100%;
+    opacity: 1;
+}
+
+img.neko-girl:hover {
+    filter: brightness(50%);
+}
+
+button#neko-button{
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
